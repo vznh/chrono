@@ -56,4 +56,6 @@ chaos theory natural sciences 1
 </EXPECTED_OUTPUT>
 ```
 
+## ( つ ◕_◕ )つ━☆💸
+Chronolex's basic capabilities (such as mass planning) will always be free. There might be features where Chronolex will have to go paid, but it will never obstruct the usage of free and fast planning.
 

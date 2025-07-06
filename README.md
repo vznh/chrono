@@ -2,7 +2,8 @@
 Chronolex is meant for fast and meticulous mass calendar planning. 
 
 ## ( ͡° ͜ʖ ͡°)つ📱
-You can utilize **Chronolex** easily using natural language planning. You can also be as detailed or as broad as you'd like. **Chronolex** will never heavily assume anything. If you prefer, **Chronolex** will ask follow-up questions in order to make more educated calendar entries.  
+You can utilize **Chronolex** easily using natural language planning. You can also be as detailed or as broad as you'd like. **Chronolex** will never heavily assume anything. If you prefer, **Chronolex** will ask follow-up questions in order to make more educated calendar entries.    
+
 For example, 
 
 __Most ideal input__

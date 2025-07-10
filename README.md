@@ -57,6 +57,16 @@ chaos theory natural sciences 1
 </EXPECTED_OUTPUT>
 ```
 
+## ( ͡° ʖ ͡°)つ💻
+Chronolex **never** remembers any events from your calendar. 
+We store the following — 
+* Your email and name (which you can delete from our server at any time, no fuss)
+* Your preferences
+* Previous raw entries
+* Queued events that you've injected (for 30 days)
+* Your token usage
+* Deleted to-dos (which you can delete from our server forever, willingly)
+
 ## ( つ ◕_◕ )つ━☆💸
 Chronolex's basic capabilities (such as mass planning) will always be free. There might be features where Chronolex will have to go paid, but it will never obstruct the usage of free and fast planning.
 

@@ -1,5 +1,5 @@
 # Chronolex
-Chronolex is meant for fast and meticulous mass calendar planning. 
+Chronolex is meant for fast and meticulous mass calendar planning. Chrono integrates with your email and calendar to close your mornings quicker.
 
 ## ( ͡° ͜ʖ ͡°)つ📱
 You can utilize **Chronolex** easily using natural language planning. You can also be as detailed or as broad as you'd like. **Chronolex** will never heavily assume anything. If you prefer, **Chronolex** will ask follow-up questions in order to make more educated calendar entries.    
